@@ -59,6 +59,8 @@
      <Compile Include="Assets\T4\cubeCollect.cs" />
      <Compile Include="Assets\T4\cubesctrl.cs" />
      <Compile Include="Assets\T4\playerctrlt4.cs" />
+     <Compile Include="Assets\T5\testtoggleanim.cs" />
+     <Compile Include="Assets\T6\animErica.cs" />
      <Compile Include="Assets\teleporter.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/home/mono/Sachen/Software/Unity3D/Unity-2018.2.7f1/Projects/New Unity Project1/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
