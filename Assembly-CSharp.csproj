@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9121AA46-79A0-683F-A2FC-9861F5AE6610}</ProjectGuid>
+    <ProjectGuid>{27565DDE-1F5E-7054-8164-A21E05FA5274}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,26 +53,26 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\cabsoola.cs" />
-     <Compile Include="Assets\playercrl.cs" />
+     <Compile Include="Assets\T2\cabsoola.cs" />
+     <Compile Include="Assets\T2\playercrl.cs" />
+     <Compile Include="Assets\T2\teleporter.cs" />
      <Compile Include="Assets\T4\anotherplayer.cs" />
      <Compile Include="Assets\T4\cubeCollect.cs" />
      <Compile Include="Assets\T4\cubesctrl.cs" />
      <Compile Include="Assets\T4\playerctrlt4.cs" />
      <Compile Include="Assets\T5\testtoggleanim.cs" />
      <Compile Include="Assets\T6\animErica.cs" />
-     <Compile Include="Assets\teleporter.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>/home/mono/Sachen/Software/Unity3D/Unity-2018.2.7f1/Projects/New Unity Project1/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>/home/mono/Sachen/Software/Unity3D/Unity-2018.2.7f1/Projects/Tutorials/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/home/mono/Sachen/Software/Unity3D/Unity-2018.2.7f1/Projects/New Unity Project1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/home/mono/Sachen/Software/Unity3D/Unity-2018.2.7f1/Projects/Tutorials/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/home/mono/Sachen/Software/Unity3D/Unity-2018.2.7f1/Projects/New Unity Project1/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/home/mono/Sachen/Software/Unity3D/Unity-2018.2.7f1/Projects/Tutorials/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/home/mono/Sachen/Software/Unity3D/Unity-2018.2.7f1/Projects/New Unity Project1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/home/mono/Sachen/Software/Unity3D/Unity-2018.2.7f1/Projects/Tutorials/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/home/mono/Sachen/Software/Unity3D/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
